@@ -1,7 +1,7 @@
 export const SITE = {
 	name: 'AstroWind',
 
-	origin: 'https://astrowind.vercel.app',
+	origin: 'https://admirable-dasik-f08a80.netlify.app',
 	basePathname: '/',
 
 	title: 'AstroWind — Your website with Astro + Tailwind CSS',
